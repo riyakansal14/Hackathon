@@ -1,4 +1,4 @@
-# arteria
+# hackathon
 
 A new Flutter project.
 
